@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  color: rgb(83, 75, 75);
+}
+.trophy {
+  border: 5px solid rgb(44,44,44);
+  margin: -50px auto 25px auto;
+  width: 100px;
+  border-radius: 100px;
+  height: auto;
+}
+
+main {
+  background-color: rgb(219, 108, 94);
+  width: 750px;
+  margin: 200px auto 100px auto;
+  padding-bottom: 10px;
+  border: 2px solid rgb(44,44,44);
+  border-radius: 8px;
+  box-shadow:1px 2px  rgb(0,0,0,0.3);
+}
+
+.challenge {
+  font-family: Oswald, sans-serif;
+  font-size: 25px;
+  color: rgb(66,2,2);
+}
+.challenge span {
+  color: rgb(0,0,0,0.3);
+}
+
+.goals {
+  font-family: "Fira Sans", serif;
+
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 45px;
+  font-weight: 700;
+  color: rgb(75,69, 59);
+}
+
+footer a {
+  
+  text-decoration: none;
+  color: rgb(73, 29, 50);
+}
+
+
+
