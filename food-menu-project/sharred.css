@@ -1,0 +1,39 @@
+body{
+  color: #fd9308;;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  background-color: rgb(50,58,58);;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+ li{
+     list-style-type: none;
+ }
+
+ header {
+     width: 100%;
+     background-color: #000;
+     margin: 0 auto;;
+     display: flex;
+     justify-content: space-between;
+
+ }
+ 
+ header nav ul {
+     display: flex;
+     justify-content: space-between;
+        margin-right: 20px;
+ }
+ header nav li {
+    padding-left:20px; 
+    background-color: ivory;
+ }
+
+ #logo {
+     font-size: 2em;
+     font-weight: bold;
+     margin-left: 20px;
+ }
